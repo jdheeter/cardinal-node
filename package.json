@@ -1,0 +1,16 @@
+{
+  "name": "cardinal-node",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coins": "^2.6.0",
+    "secp256k1": "^3.5.0"
+  }
+}
